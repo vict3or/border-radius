@@ -1,0 +1,43 @@
+body{
+  background-color: #efeff1;
+}
+
+html{
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: #5c16c5;
+}
+
+p{
+  text-align: center;
+}
+
+input {
+  width: 7vw;
+  text-align: center;
+  border: 3px solid #0e0e10;
+  border-radius: 3px;
+  outline: none;
+}
+
+#border {
+  text-align: center;
+  margin: auto;
+  margin-top: 4vw;
+  width: 20vw;
+  height: 20vw;
+  border: 5px solid rgb(0, 0, 0);
+  background-color: #f7f7f8;
+}
+
+h1 {
+  margin-top: 8vw;
+}
+
+#border-changer {
+  margin-top: 2vw;
+  margin-left: 34vw;
+}
+
+footer{
+  margin-top: 2vw;
+}
