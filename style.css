@@ -41,3 +41,25 @@ h1 {
 footer{
   margin-top: 2vw;
 }
+
+@media (max-width: 1000px) {
+
+  h1{
+    font-size: 15px;
+    margin-top: 10vw;
+  }
+
+  input{
+    width: 19vw;
+  }
+
+  #border{
+    width: 25vw;
+    height: 25vw;
+  }
+
+  #border-changer{
+    margin-left: 4vw;
+  }
+
+}
